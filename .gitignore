@@ -1,0 +1,16 @@
+# dependências
+node_modules/
+package-lock.json
+__pycache__/
+
+# seus vídeos e trabalhos nunca vão para o repositório
+videos/*
+!videos/.gitkeep
+modelo-remotion/public/*
+!modelo-remotion/public/.gitkeep
+*.mp4
+*.mov
+*.wav
+*.mp3
+*.m4a
+out/
